@@ -1,0 +1,23 @@
+body{
+    font-family: 'Carattere', cursive;
+    background-color:lightgreen;
+    text-align :center;
+}
+.Yay{
+    background-color:linen;
+    margin-top:0px;
+    top:0px;
+    color:royalblue;
+}
+
+.footer{
+    color:royalblue;
+    position:fixed;
+    bottom:0;
+    background-color : linen;
+    width:100%;
+    font-size:20px;
+    text-align:center;
+    text-shadow:5px 5px 5px grey; 
+    line-height: 1.5;
+}
